@@ -8,6 +8,6 @@ public class HelloWorldController {
 
     @RequestMapping
     public String HelloWorld() {
-        return "Puta espanya!";
+        return "Hola DAMr!";
     }
 }
